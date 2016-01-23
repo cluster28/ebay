@@ -1,7 +1,5 @@
 <?php
 
-namespace rearley\Ebay\Calls;
-
 /**
  * Ebay API
  * @author Rick Earley <rick@earleyholdings.com>
